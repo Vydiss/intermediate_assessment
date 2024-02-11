@@ -1,0 +1,14 @@
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/bin/Debug/net8.0/intermediate_assessment
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/bin/Debug/net8.0/intermediate_assessment.deps.json
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/bin/Debug/net8.0/intermediate_assessment.runtimeconfig.json
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/bin/Debug/net8.0/intermediate_assessment.dll
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/bin/Debug/net8.0/intermediate_assessment.pdb
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.AssemblyInfoInputs.cache
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.AssemblyInfo.cs
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.csproj.CoreCompileInputs.cache
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.dll
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/refint/intermediate_assessment.dll
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.pdb
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/intermediate_assessment.genruntimeconfig.cache
+/Users/endruman/Desktop/Prog_sem/intermediate_assessment/obj/Debug/net8.0/ref/intermediate_assessment.dll
